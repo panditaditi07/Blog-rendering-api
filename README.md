@@ -12,3 +12,5 @@ Here, Blog-rendering is done giving an api call to the json file where it has th
 4. There is a renderNewBlog.js file which has the structure of the complete blog.
 5. Using JS the front-end is implemented.
 6. Simple styles have been applied.
+
+[Demo Link](https://panditaditi07.github.io/Blog-rendering-api/)
