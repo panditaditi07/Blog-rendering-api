@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "BioRhyme", serif;
+  box-sizing: border-box;
+}
+
+#root {
+  display: flex;
+  width: 95%;
+}
+.item-link {
+  text-decoration: none;
+}
+
+#blog-section {
+  width: 250%;
+}
+
+.blog-image {
+  width: 80%;
+  height: 80vh;
+  margin-left: 60px;
+}
+.blog-image img {
+  width: 100%;
+  height: 80vh;
+}
+.heading {
+  margin-left: 50px;
+  padding: 10px;
+}
+
+.blog-content {
+  width: 85%;
+  text-align: justify;
+  margin-left: 40px;
+  padding: 20px;
+}
+#related-links {
+  width: 90%;
+  padding: 10px;
+}
+.footer {
+  height: 40px;
+  background-color: black;
+}
+.header {
+  height: 60px;
+  background-color: black;
+}
+.listed-links {
+  list-style: none;
+  padding: 10px;
+}
+
+
